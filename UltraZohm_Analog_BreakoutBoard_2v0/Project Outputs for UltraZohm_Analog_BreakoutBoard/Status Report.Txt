@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [UltraZohm_Analog_BreakoutBoard.PcbDoc]
+   Generated File[UltraZohm_Analog_BreakoutBoard.TXT]
+   Generated File[UltraZohm_Analog_BreakoutBoard.LDP]
+   Generated File[UltraZohm_Analog_BreakoutBoard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:25:40 On 25.10.2019

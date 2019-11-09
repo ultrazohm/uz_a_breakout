@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=X2-1
+Removed Pin From Net: NetName=GND Pin=X2-2
+Removed Pin From Net: NetName=VIN_FUSED Pin=X2-5
+Removed Pin From Net: NetName=VIN_FUSED Pin=X2-6
+Removed Pin From Net: NetName=5V_PER_FUSED Pin=X2-9
+Removed Pin From Net: NetName=5V_PER_FUSED Pin=X2-10
+Removed Pin From Net: NetName=3V3_PER_FUSED Pin=X2-13
+Removed Pin From Net: NetName=3V3_PER_FUSED Pin=X2-14
+Removed Pin From Net: NetName=GND Pin=X2-15
+Removed Pin From Net: NetName=GND Pin=X2-16
+Change Component DesignItemId : Designator=X2 Old DesignItemId=TSW-108-XX-XXX-D New DesignItemId=TSW-106-XX-XXX-D
+Change Component Footprint: Designator=X2 Old Footprint=TSW-108-XX-XXX-D New Footprint=TSW-106-XX-XXX-D
+Change Component Comment : Designator=X2 Old Comment=TSW-108-07-F-D New Comment=TSW-106-07-F-D
+Added Pin To Net: NetName=VIN_FUSED Pin=X2-1
+Added Pin To Net: NetName=VIN_FUSED Pin=X2-2
+Added Pin To Net: NetName=5V_PER_FUSED Pin=X2-5
+Added Pin To Net: NetName=5V_PER_FUSED Pin=X2-6
+Added Pin To Net: NetName=3V3_PER_FUSED Pin=X2-9
+Added Pin To Net: NetName=3V3_PER_FUSED Pin=X2-10

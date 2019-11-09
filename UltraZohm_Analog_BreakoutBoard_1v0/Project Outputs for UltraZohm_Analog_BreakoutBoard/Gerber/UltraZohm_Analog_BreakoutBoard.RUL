@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\Work_Altium\UltraZohm_Analog_BreakoutBoard\UltraZohm_Analog_BreakoutBoard_1v0\UltraZohm_Analog_BreakoutBoard.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
